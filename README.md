@@ -18,10 +18,10 @@ If you wish to run the app on your localhost, kindly follow the below steps :
 1. Clone the repository
 2. Make a .env file in the root directory and add the following code
 
-REACT_APP_REGISTER_REDIRECT_URL="http://localhost:3000/register/complete"
-REACT_APP_FORGOTPASSWORD_REDIRECT_URL="http://localhost:3000/login"
-REACT_APP_API = "http://localhost:8000/api"
-REACT_APP_STRIPE_KEY=pk_test_51ISNEvECvaWr7wKLZIk6g6wYZ9Jt1FKtOyLXoqCuCLCG1sNYZQwX3G9V3x5uY1WcvNAr0dAw0Xa11ptJ79LhRnEh00h9Zt24Hh
+REACT_APP_REGISTER_REDIRECT_URL="http://localhost:3000/register/complete"                                                 
+REACT_APP_FORGOTPASSWORD_REDIRECT_URL="http://localhost:3000/login"                                                                
+REACT_APP_API = "http://localhost:8000/api"                                                                                             
+REACT_APP_STRIPE_KEY=pk_test_51ISNEvECvaWr7wKLZIk6g6wYZ9Jt1FKtOyLXoqCuCLCG1sNYZQwX3G9V3x5uY1WcvNAr0dAw0Xa11ptJ79LhRnEh00h9Zt24Hh                  
 
 3. Migrate to the root folder and run - npm start in console.
 
