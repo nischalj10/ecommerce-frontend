@@ -4,7 +4,7 @@ https://github.com/Nischalj10/ecommerce-backend
 
 This project has already been deployed on Heroku. To view the finished application, kindly visit the following link-
 https://nischal-ecommerce-frontend.herokuapp.com/ 
-(It take a minute to load though <3 )
+(It takes a minute to load though <3 )
 
 Since it would not be right to share the admin profile of the application publicly, I have made this demonstration 
 video about the platform, kindly see it here once you have explored the application -
@@ -23,7 +23,7 @@ REACT_APP_FORGOTPASSWORD_REDIRECT_URL="http://localhost:3000/login"
 REACT_APP_API = "http://localhost:8000/api"                                                                                             
 REACT_APP_STRIPE_KEY=pk_test_51ISNEvECvaWr7wKLZIk6g6wYZ9Jt1FKtOyLXoqCuCLCG1sNYZQwX3G9V3x5uY1WcvNAr0dAw0Xa11ptJ79LhRnEh00h9Zt24Hh                  
 
-3. Migrate to the root folder and run - npm start in console.
+3. Migrate to the root folder and run -> npm start in console.
 
 The front-end app should build. You also need to follow the steps in the README.md file of the following repository
 to run the backend as well - 
